@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.crypto-list {
+  background-color: #000000;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+  height: 130vh;
+}
